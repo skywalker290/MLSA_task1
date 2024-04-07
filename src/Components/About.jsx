@@ -24,7 +24,7 @@ const imageAltText = "alternative text for image2.jpg";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a Passionate Software/AI-ML Developer and Tech Enthusiast.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
